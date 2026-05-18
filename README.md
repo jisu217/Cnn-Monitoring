@@ -126,5 +126,5 @@ Input 1 (Face)    Input 2 (Posture)    Input 3 (Sound Spectrogram)
   year    = {2025},
   doi     = {10.24225/kjai.2022.9.1.1}
 }
-
+```
 ---
